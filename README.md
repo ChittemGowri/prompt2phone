@@ -1,4 +1,3 @@
-# prompt2phone
 # Smart Mobile Automation
 
 > Control your Android phone with natural language, powered by Claude AI.
